@@ -41,28 +41,30 @@ public class CreationStory {
             } else {
                 System.out.println("Nope, go find out\n ");
             }
-            System.out.println("* DAY 4 : Enter four to proceed :");
+            System.out.println("* DAY 4 : Enter 4 to to find what exactly happened  :");
             int OnDay_4 = myObject.nextInt();
 
             System.out.println(" So after God had created the dried grounds , He then with his mighty powers commanded\n " +
                     "and the sun,moon and stars came to being . And this happened on the fourth day Ref.[Genesis 1:14-20]\n");
 
-            System.out.println("* DAY 5 : press 5: :\n");
+            System.out.println("* DAY 5 : What happened on that day and where can we reference from the Bible: Press 5 :\n");
             int OnDay_5 = myObject.nextInt();
 
             System.out.println("God created  birds ,flies , fish and other living creatures \n" +
                     "that moves in the waters Ref.[Genesis 1:20-22]");
 
-            System.out.println("* DAY 6 : press 6: \n");
+            System.out.println("* DAY 6 : What happened on that day and where can we reference from the Bible: Press 6: \n");
             int OnDay_6 = myObject.nextInt();
             System.out.println("And on the 6th day , God created man in His own likelihood \n" +
                                "to take dominion over the things of the universe. Ref.[Genesis 1:26-27]");
 
-            System.out.println("* DAY 7 : press 7: \n");
+            System.out.println("* DAY 7 : And what happened on this day too? :Press 7: \n");
             int OnDay_7 = myObject.nextInt();
             System.out.println("And on the 7th day which happened to be the last day according to the narrative \n" +
                                " of creation, God rested from all His work and sanctified and made it Holy.\n " +
                                ".Ref.[Genesis 2:2-3]\n\n");
+
+            System.out.println("Wow!! what an interesting story!");
 
             System.out.println("END OF THE STORY!!!\n\n");
 
