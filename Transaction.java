@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Transaction extends TransferMoney{
+public class Transaction {
 
 
 
